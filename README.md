@@ -4,9 +4,6 @@
 
 A server-rendered React app inspired by [Trello](https://trello.com/home).
 
-![react kanban example](https://github.com/yogaboll/react-kanban/blob/master/example.gif?raw=true)
-
-[Check out the live website](https://www.reactkanban.com)
 
 ### Features
 
@@ -35,7 +32,7 @@ Setting up the full app with your own mongoDB instance and auth credentials for 
 
 ```shell
 # Clone the simple-dev branch which does not include db and social sign-in stuff
-git clone https://github.com/yogaboll/react-kanban.git -b simple-dev
+git clone <repo url> -b simple-dev
 
 cd react-kanban
 
@@ -52,7 +49,7 @@ The app will run on http://127.0.0.1:1337
 #### Full setup
 
 ```shell
-git clone https://github.com/yogaboll/react-kanban.git
+git clone <repo url>
 
 cd react-kanban
 
